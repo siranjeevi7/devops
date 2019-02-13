@@ -1,0 +1,5 @@
+#!/bin/bash
+
+rm -rf /var/www/html/*
+yum install -y httpd
+rm -rf /var/www/html/*
